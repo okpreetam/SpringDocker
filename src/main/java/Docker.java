@@ -1,5 +1,5 @@
 public class Docker {
     public static void main(String[] args) {
-        System.out.println("Hello docker nucleus");
+        System.out.println("Hello docker");
     }
 }
